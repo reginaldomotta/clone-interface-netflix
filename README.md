@@ -1,4 +1,5 @@
 # clone-interface-netflix
-Projeto do Bootcamp DIO - HTML Web Developer
 
-Recriar a inteface do Netflix utilizando os conceitos estudados em HTML, CSS, JS e responsividade;
+Bootcamp DIO Project - HTML Web Developer
+
+Recreate the Netflix interface using the concepts studied in HTML, CSS, JS and responsiveness;
